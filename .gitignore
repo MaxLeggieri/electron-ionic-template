@@ -55,6 +55,7 @@ yarn-error.log
 
 # Miscellaneous
 /.angular
+/.vscode
 /.angular/cache
 .sass-cache/
 /connect.lock
